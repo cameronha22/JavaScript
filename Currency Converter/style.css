@@ -1,0 +1,33 @@
+header{
+    width: 75%; /* Could be anything, but 75% works here. */
+    margin: auto; /* This is what center the content div itself. */
+    height: 100px;
+    text-align: center;
+}
+body {
+    width: 75%; /* Could be anything, but 75% works here. */
+    margin: auto; /* This is what center the content div itself. */
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+
+
+ }
+ #euroToUs {
+    width: 75%; /* Could be anything, but 75% works here. */
+    margin: auto; /* This is what center the content div itself. */
+    border: 1px solid green;
+    text-align: center;
+    vertical-align: middle;
+    height: 100px;
+
+ }
+ #UsToEuro {
+    width: 75%; /* Could be anything, but 75% works here. */
+    margin: auto; /* This is what center the content div itself. */
+    border: 1px solid green;
+    text-align: center;
+    vertical-align: middle;
+    height: 100px;
+
+ }
